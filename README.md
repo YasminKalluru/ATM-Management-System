@@ -22,3 +22,5 @@ This project is being developed step by step to learn Python programming, softwa
 🚧 Currently under development.
 
 More features will be added in future milestones.
+
+*Created by Yasmin.*
